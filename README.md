@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/3edc0d7d-35f9-4878-b106-fc3fe1038154
+
+
+
+
+
 # 🛰️ Basic Network Sniffer
 
 A Python-based network packet sniffer built with **Scapy**, developed as part of the **CodeAlpha Cybersecurity Internship**. This tool captures live network traffic and displays useful, human-readable information about each packet — helping you understand how data flows across a network and how core protocols (TCP, UDP, ICMP, ARP) are structured.
